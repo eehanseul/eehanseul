@@ -27,6 +27,10 @@ Education📚
  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
  <img src="https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
 
+Certification🏆
+=======
+정보처리기사, SQLD
+
  Contact☎️
  ======
   📫How to reach me gkstmf616@gmail.com   
