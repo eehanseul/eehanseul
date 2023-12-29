@@ -15,7 +15,7 @@ Project📂
 
 Education📚
 =======
- ☁️ 23. 12 ~ 24 .06 신한투자증권 프로 디지털 아카데미
+ ☁️ 23. 12 ~ 24 .06 신한투자증권 프로 디지털 아카데미  
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white">
