@@ -19,7 +19,7 @@ Education📚
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white">
- <img src="https://img.shields.io/badge/DevOps-003E54?style=for-the-badge&logo=DevOps&logoColor=white">
+ <img src="https://img.shields.io/badge/DevOps-#232F3E?style=for-the-badge&logo=DevOps&logoColor=white">
 #
 <!---
 eehanseul/eehanseul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
