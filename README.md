@@ -37,11 +37,11 @@ Education📚
  <img src="https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
 
  Contact☎️
- ======
-  📫gkstmf616@gmail.com   
+ ==========
+📫gkstmf616@gmail.com   
  
  
-#
+
 <!---
 eehanseul/eehanseul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
