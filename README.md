@@ -3,9 +3,11 @@
 Introduce🐯
 =========
 👋 Hi, I’m @eehanseul   
-🧑‍🎓 경희대학교 생체의공학과, 컴퓨터공학과 Kyunghee Univ 🦁   
-           
+🧑‍🎓 경희대학교 생체의공학과, 컴퓨터공학과 Kyunghee Univ 🦁    
+
+🏆정보처리기사, SQLD             
 📖 C,C++ / JAVA / Python / Docker / Kubernetes ...   
+
 
 Final value
 =======
@@ -33,11 +35,6 @@ Education📚
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
  <img src="https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
-
-Certification🏆
-=======
-정보처리기사, SQLD      
-
 
  Contact☎️
  ======
