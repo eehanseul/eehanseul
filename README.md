@@ -6,7 +6,7 @@ Introduce🐯
 🧑‍🎓 경희대학교 생체의공학과, 컴퓨터공학과 Kyunghee Univ 🦁    
 
 🏆정보처리기사, SQLD             
-📖 C,C++ / JAVA / Python / Docker / Kubernetes ...   
+📖 C,C++ / JAVA / Python / MySQL / Docker / Kubernetes ...   
 
 
 Final value⭐
