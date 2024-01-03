@@ -2,8 +2,12 @@ Introduce🐯
 =========
 👋 Hi, I’m @eehanseul   
 🧑‍🎓 경희대학교 생체의공학과, 컴퓨터공학과 Kyunghee Univ 🦁  
+           
+📖 C,C++ / JAVA / Python / Docker / Kubernetes ...
 
-📖 C,C++ / JAVA / Python / Docker / Kubernetes ...  
+Final World
+=======
+"Stable" but not now
 
 Project📂
 =======
