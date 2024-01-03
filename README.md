@@ -7,9 +7,10 @@ Introduce🐯
            
 📖 C,C++ / JAVA / Python / Docker / Kubernetes ...   
 
-Final World
+Final value
 =======
-"Stable" but not now
+"Stable"   
+but not now
 
 Project📂
 =======
@@ -40,7 +41,7 @@ Certification🏆
 
  Contact☎️
  ======
-  📫How to reach me gkstmf616@gmail.com   
+  📫gkstmf616@gmail.com   
  
  
 #
