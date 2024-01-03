@@ -9,8 +9,8 @@ Introduce🐯
 
 Final value
 =======
-"Stable"   
-but not now
+for the "Stable"
+
 
 Project📂
 =======
