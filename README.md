@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi__Hanseul&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1074&height=200&section=header&text=Hi__Hanseul&fontSize=70" />
 
 Introduce🐯
 =========
