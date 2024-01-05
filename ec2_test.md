@@ -1,4 +1,4 @@
-t2, t3.Xlarge에서 Sort 비교
+❔t2, t3.Xlarge에서 Sort 비교
 ---------
 
    
