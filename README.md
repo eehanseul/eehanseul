@@ -26,10 +26,10 @@ Project📂
  🏦 keywordream - 인기종목이 왜 인기있을까? 키워드로 알아보자!  
  https://github.com/Keywordream-PDA/.github
 
- DonTouch - 배당주 추천 및 P2P 투자 플랫폼 서비스(제2의 월급만들기)
+ DonTouch - 배당주 추천 및 P2P 투자 플랫폼 서비스(제2의 월급만들기)    
  https://github.com/PDA-Dontouch
 
- WePB - 내가 원하는 PB를 선택하고 상담해보세요-!
+ WePB - 내가 원하는 PB를 선택하고 상담해보세요-!    
  https://github.com/shinhan-internship-project
 
 
