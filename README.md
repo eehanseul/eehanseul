@@ -16,13 +16,18 @@ for the "Stable"
 
 Project📂
 =======
- 😵 낙상 알림 시스템   
+ 😵 낙상 알림 시스템    
+ 
  🚙 monocular 3D object detection 이용한 depth 인식       
            https://github.com/eehanseul/project_CSEgrad  
- 💻 수강신청 시스템   
- 👣 실시간 족압 판독   
+           
+ 💻 수강신청 시스템    
+ 
+ 👣 실시간 족압 판독    
+ 
  🍶 무박오일 - 전국 전통주를 내손에  
- https://github.com/PDA-MUBAKOIL  
+ https://github.com/PDA-MUBAKOIL    
+ 
  🏦 keywordream - 인기종목이 왜 인기있을까? 키워드로 알아보자!  
  https://github.com/Keywordream-PDA/.github
 
